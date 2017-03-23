@@ -6,4 +6,7 @@
  * and open the template in the editor.
  */
 
-echo "neco";
+echo "neco<br/>";
+
+
+echo "dalsi radek <br/>";
