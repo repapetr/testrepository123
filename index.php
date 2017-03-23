@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "Hello....";
+        echo "Iam synchronize from GITHub..."
         ?>
     </body>
 </html>
