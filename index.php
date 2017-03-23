@@ -11,7 +11,22 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        // put your code here
+        echo "Hello....";
+        echo "Iam synchronize from GITHub...";
+        echo "anything alse... ";
+        
+        
+        
+        
+        
+        
+        
+        
+        echo "sfsdf";
+        for($i = 0; $i<150; $i++){
+            echo $i."<br/>";
+        }
+        
         ?>
     </body>
 </html>
