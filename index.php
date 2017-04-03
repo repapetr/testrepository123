@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+        echo "md is:".$_GET['md'];
         echo "Hello....";
         echo "Iam synchronize from GITHub...";
         echo "anything alse... ";
